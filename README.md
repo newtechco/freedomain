@@ -1,18 +1,20 @@
-# freedomain
-免费域名的方案！
+首先先查到这个网络所在地。并且把注册信息和注册人的伪装为网络所在地。干过这行的人都知道，如果你想去另外一个国家，那你就必须要风格习惯和那个国家的居民相同。
+地址是湖北黄冈市 也就那个发那里和胸的视频 那个骚逼所在地。为什么世界上有这么多巧合呢？呵呵
+221.235.184.73
+湖北黄冈 那我就伪装成是黄冈中学。
+湖北黄冈中学官网 www.hbshgzx.com
+地址：湖北省黄冈市黄州区南湖路1号
+电话：0713-8838888
+特别注意 有些人会使用QQ，所以最好使用自定义邮箱。这样的话，他就看不到QQ资料了。只要伪装的像本地中学生就行了。
+
+
 注册商 http://nic.eu.org
-最后的邮箱:Chinaredteam@hotmail.com
-当然这个是在其他地区的网络上完成的。目的是隐藏自己的真实身份！
-
-官方电子邮箱
-noreply@eu.org
-
-pb@fasterix.frmug.org
-
-majordomo@lists.eu.org
-
-hostmaster@eu.org
-
-webmaster@eu.org
-
-dns-manager@eu.org
+ 预注册
+ ID:LM623-FREE
+ 密码:Hdy673@418
+ 邮箱1369221826@qq.com
+ 
+ 最终域名转移
+ id:
+密码:tbs20130613
+邮箱:Chinaredteam@hotmail.com
