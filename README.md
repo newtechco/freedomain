@@ -27,8 +27,7 @@
  
  最终域名转移
  
- id:
- 
-密码:tbs20130613
+ id:BB668-FREE
+这是个临时的账户，所以直接没有密码。
 
 邮箱:Chinaredteam@hotmail.com
