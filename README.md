@@ -31,3 +31,18 @@
 这是个临时的账户，所以直接没有密码。
 
 邮箱:Chinaredteam@hotmail.com
+
+
+
+注意
+
+BangtanBoys.eu.org 一开始是写电脑文  后写手机相关文章。 使用手机注册。
+
+worldbomb.eu.org 一开始写手机文章。 后写电脑文章。 使用电脑注册。
+
+这两个网站只用于防弹少年团宣传,反黑,控评 及情报工作。不会有 有翻墙的东西。
+
+
+BigHit.eu.org 和BangtanBoys.eu.org 一样也是通过手机注册。但是这个域有翻墙
+
+Bangtan.eu.org和worldbomb.eu.org 一样 都是通过电脑注册。 但这个域名也有翻墙
