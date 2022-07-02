@@ -1,0 +1,23 @@
+---- Servers and domain names check
+
+Getting IP for NS1.HUAWEICLOUD-DNS.CN: 122.112.208.175 116.205.5.30 139.159.208.206
+
+Getting IP for NS1.HUAWEICLOUD-DNS.CN: 2407:c080:0:ffff:ffff:fffe:0:1
+
+Getting IP for NS1.HUAWEICLOUD-DNS.COM: 116.205.5.1 122.112.208.1 139.9.23.90 114.115.192.11
+
+Getting IP for NS1.HUAWEICLOUD-DNS.COM: 2407:c080:0:ffff:ffff:fffe:0:1
+
+Getting IP for NS1.HUAWEICLOUD-DNS.NET: 159.138.160.21 27.126.245.21 159.138.76.159 159.138.224.163
+
+Getting IP for NS1.HUAWEICLOUD-DNS.NET: 2407:c080:0:ffff:ffff:fffe:0:1
+
+Getting IP for NS1.HUAWEICLOUD-DNS.ORG: 159.138.77.159 159.138.80.16
+
+Getting IP for NS1.HUAWEICLOUD-DNS.ORG: 2407:c080:0:ffff:ffff:fffe:0:1
+
+No error, storing for validation...
+
+Saved as request 20220703001358-arf-49271
+
+Done
